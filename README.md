@@ -8,7 +8,7 @@
 
 <h2>Language</h2>
 
-<li><h3>Python</h3></li>
+<h3><li>Python</li></h3>
 
 <h2>Packages</h2>
 
