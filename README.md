@@ -13,7 +13,7 @@
 <h2>Packages</h2>
 
 <h3><li>Webdriver.Manager</li></h3>
-<h3><li></li>Time</li></h3>
+<h3><li>Time</li></h3>
 <h3><li>Sleep</li></h3>
 <h3><li>Selenium.driver</li></h3>
 <h3><li>ChromeDriverManager</li><h3>
